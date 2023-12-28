@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "sqlite3": "^5.1.6",
-    "uuid": "^9.0.1"
-  },
-  "devDependencies": {
-    "prisma": "^5.7.0"
-  }
-}
